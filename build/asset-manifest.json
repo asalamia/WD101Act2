@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WD101Act2.git/static/css/main.e6c13ad2.css",
+    "main.js": "/WD101Act2.git/static/js/main.9b4e6545.js",
+    "static/js/453.ed3810f9.chunk.js": "/WD101Act2.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/WD101Act2.git/index.html",
+    "main.e6c13ad2.css.map": "/WD101Act2.git/static/css/main.e6c13ad2.css.map",
+    "main.9b4e6545.js.map": "/WD101Act2.git/static/js/main.9b4e6545.js.map",
+    "453.ed3810f9.chunk.js.map": "/WD101Act2.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9b4e6545.js"
+  ]
+}
